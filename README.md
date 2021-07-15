@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wwfeitim
 - 👀 I’m interested in statistic and data analysis
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on (dont know yet)
+- 🌱 I’m currently learning R and Python
+- 💞️ I will learn Javascripts, VBA and SQL in the future.
 - 📫 How to reach me: wenwei.fei@outlook.com
 
 <!---
