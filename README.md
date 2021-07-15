@@ -5,6 +5,7 @@
 - 📫 How to reach me: wenwei.fei@outlook.com
 -                     https://timminilab.blogspot.com/
 -                     https://www.linkedin.com/in/wenwei-fei-tim/
+- I am a bird fan! Though I favourite fastfood is KFC :)
 
 <!---
 wwfeitim/wwfeitim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
