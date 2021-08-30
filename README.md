@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R and Python
 - 💞️ I will learn Javascripts, VBA and SQL in the future.
 - 📫 How to reach me: wenwei.fei@outlook.com
--                     https://timminilab.blogspot.com/
+-                     https://timfei.netlify.app/
 -                     https://www.linkedin.com/in/wenwei-fei-tim/
 - I am a bird fan! Though I favourite fastfood is KFC :)
 
